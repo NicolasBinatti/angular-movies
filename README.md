@@ -1,3 +1,6 @@
+### Install dependences
+run `npm install`
+
 ### Running project
 
 Run `npm start` to start the project and fake api

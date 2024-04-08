@@ -22,6 +22,5 @@ export class MoviesService {
     }
 
     return this.http.get<any>(endpoint, {params}).toPromise();
-
   }
 }

@@ -1,50 +1,44 @@
-<form class="filter-form" #filterForm="ngForm">
-  <mat-grid-list cols="3" rowHeight="3:1">
-    <mat-grid-tile>
-      <mat-form-field>
-        <mat-label>Year</mat-label>
-        <input matInput type="number" [(ngModel)]="filter.year" name="filterYear">
-      </mat-form-field>
-    </mat-grid-tile>
-    <mat-grid-tile>
-      <mat-form-field>
-        <mat-label>Winner</mat-label>
-        <mat-select [(ngModel)]="filter.winner" name="filterWinner">
-          <mat-option [value]="null">All</mat-option>
-          <mat-option [value]="true">Yes</mat-option>
-          <mat-option [value]="false">No</mat-option>
-        </mat-select>
-      </mat-form-field>
-    </mat-grid-tile>
-    <mat-grid-tile>
-      <button mat-flat-button color="primary" (click)="applyFilter()">Filter</button>
-    </mat-grid-tile>
-  </mat-grid-list>
-</form>
+<div id="report">
+  <form class="filter-form" #filterForm="ngForm">
+    <mat-form-field class="margin-form">
+      <mat-label>Year</mat-label>
+      <input matInput type="number" [(ngModel)]="filter.year" name="filterYear">
+    </mat-form-field>
+    <mat-form-field class="margin-form">
+      <mat-label>Winner</mat-label>
+      <mat-select [(ngModel)]="filter.winner" name="filterWinner">
+        <mat-option [value]="null">All</mat-option>
+        <mat-option [value]="true">Yes</mat-option>
+        <mat-option [value]="false">No</mat-option>
+      </mat-select>
+    </mat-form-field>
+    <button mat-flat-button color="primary" class="margin-form" (click)="applyFilter()">Filter</button>
+  </form>
 
-<table mat-table [dataSource]="table.data" class="mat-elevation-z0">
-  <ng-container matColumnDef="id">
-    <th mat-header-cell *matHeaderCellDef>ID</th>
-    <td mat-cell *matCellDef="let row">{{ row.id }}</td>
-  </ng-container>
+  <table mat-table [dataSource]="table.data" class="mat-elevation-z0 ">
+    <ng-container matColumnDef="id">
+      <th mat-header-cell *matHeaderCellDef>ID</th>
+      <td mat-cell *matCellDef="let row">{{ row.id }}</td>
+    </ng-container>
 
-  <ng-container matColumnDef="year">
-    <th mat-header-cell *matHeaderCellDef>Year</th>
-    <td mat-cell *matCellDef="let row">{{ row.year }}</td>
-  </ng-container>
+    <ng-container matColumnDef="year">
+      <th mat-header-cell *matHeaderCellDef>Year</th>
+      <td mat-cell *matCellDef="let row">{{ row.year }}</td>
+    </ng-container>
 
-  <ng-container matColumnDef="title">
-    <th mat-header-cell *matHeaderCellDef>Title</th>
-    <td mat-cell *matCellDef="let row">{{ row.title }}</td>
-  </ng-container>
+    <ng-container matColumnDef="title">
+      <th mat-header-cell *matHeaderCellDef>Title</th>
+      <td mat-cell *matCellDef="let row">{{ row.title }}</td>
+    </ng-container>
 
-  <ng-container matColumnDef="winner">
-    <th mat-header-cell *matHeaderCellDef>Winner?</th>
-    <td mat-cell *matCellDef="let row">{{ row.winner === 'true' ? 'Yes' : 'No' }}</td>
-  </ng-container>
+    <ng-container matColumnDef="winner">
+      <th mat-header-cell *matHeaderCellDef>Winner?</th>
+      <td mat-cell *matCellDef="let row">{{ row.winner === 'true' ? 'Yes' : 'No' }}</td>
+    </ng-container>
 
-  <tr mat-header-row *matHeaderRowDef="table.headers"></tr>
-  <tr mat-row *matRowDef="let row; columns: table.headers;"></tr>
-</table>
+    <tr mat-header-row *matHeaderRowDef="table.headers"></tr>
+    <tr mat-row *matRowDef="let row; columns: table.headers;"></tr>
+  </table>
 
-<mat-paginator [length]="table.data.data.length" [pageSize]="10" [pageSizeOptions]="[5, 10, 25, 100]"></mat-paginator>
+  <mat-paginator [length]="table.data.data.length" [pageSize]="10" [pageSizeOptions]="[5, 10, 25, 100]"></mat-paginator>
+</div>

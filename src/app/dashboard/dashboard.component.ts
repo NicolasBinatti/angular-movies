@@ -4,6 +4,7 @@ import {MatCardModule} from '@angular/material/card';
 import {ReportListWinnersComponent} from "../report-list-winners/report-list-winners.component";
 import {ReportTopThreeComponent} from "../report-top-three/report-top-three.component";
 import {ReportListMoviesByYearComponent} from "../report-list-movies-by-year/report-list-movies-by-year.component";
+import {ReportIntervalWinsComponent} from "../report-interval-wins/report-interval-wins.component";
 
 @Component({
   selector: 'app-dashboard',
@@ -14,7 +15,8 @@ import {ReportListMoviesByYearComponent} from "../report-list-movies-by-year/rep
     MatCardModule,
     ReportListWinnersComponent,
     ReportTopThreeComponent,
-    ReportListMoviesByYearComponent
+    ReportListMoviesByYearComponent,
+    ReportIntervalWinsComponent
   ],
   templateUrl: './dashboard.component.html',
   styleUrl: './dashboard.component.scss'

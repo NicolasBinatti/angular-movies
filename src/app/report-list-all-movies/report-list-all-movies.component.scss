@@ -1,12 +1,15 @@
-.example-loading-shade {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 56px;
-  right: 0;
-  background: rgba(0, 0, 0, 0.15);
-  z-index: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+#report {
+  padding: 10px;
+}
+
+.filter-form {
+  float: right;
+}
+
+.margin-form {
+  margin: 10px
+}
+
+table {
+  border: 1px solid #f3f3f3
 }
