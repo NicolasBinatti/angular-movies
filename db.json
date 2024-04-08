@@ -6,7 +6,7 @@
       "title": "Friday the 13th",
       "studios": "Paramount Pictures",
       "producers": "Sean S. Cunningham",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "title": "The Nude Bomb",
       "studios": "Universal Studios",
       "producers": "Jennings Lang",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "title": "The Jazz Singer",
       "studios": "Associated Film Distribution",
       "producers": "Jerry Leider",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "title": "Raise the Titanic",
       "studios": "Associated Film Distribution",
       "producers": "William Frye",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "title": "Saturn 3",
       "studios": "Associated Film Distribution",
       "producers": "Stanley Donen",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "title": "Windows",
       "studios": "United Artists",
       "producers": "Mike Lobell",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "title": "Xanadu",
       "studios": "Universal Studios",
       "producers": "Lawrence Gordon",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "title": "Mommie Dearest",
       "studios": "Paramount Pictures",
       "producers": "Frank Yablans",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "title": "Endless Love",
       "studios": "Universal Studios, PolyGram",
       "producers": "Dyson Lovell",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "title": "Heaven's Gate",
       "studios": "United Artists",
       "producers": "Joann Carelli",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "title": "The Legend of the Lone Ranger",
       "studios": "Universal Studios, Associated Film Distribution",
       "producers": "Walter Coblenz",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "title": "Tarzan, the Ape Man",
       "studios": "MGM, United Artists",
       "producers": "John Derek",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "title": "Inchon",
       "studios": "MGM",
       "producers": "Mitsuharu Ishii",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 14,
@@ -110,7 +110,7 @@
       "title": "Annie",
       "studios": "Columbia Pictures",
       "producers": "Ray Stark",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 15,
@@ -118,7 +118,7 @@
       "title": "Butterfly",
       "studios": "Analysis Film Releasing",
       "producers": "Matt Cimber",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 16,
@@ -126,7 +126,7 @@
       "title": "Megaforce",
       "studios": "20th Century Fox",
       "producers": "Albert S. Ruddy",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 17,
@@ -134,7 +134,7 @@
       "title": "The Pirate Movie",
       "studios": "20th Century Fox",
       "producers": "David Joseph",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 18,
@@ -142,7 +142,7 @@
       "title": "The Lonely Lady",
       "studios": "Universal Studios",
       "producers": "Robert R. Weston",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 19,
@@ -150,7 +150,7 @@
       "title": "Hercules",
       "studios": "MGM, United Artists, Cannon Films",
       "producers": "Yoram Globus and Menahem Golan",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 20,
@@ -158,7 +158,7 @@
       "title": "Jaws 3-D",
       "studios": "Universal Studios",
       "producers": "Rupert Hitzig",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 21,
@@ -166,7 +166,7 @@
       "title": "Stroker Ace",
       "studios": "Warner Bros., Universal Studios",
       "producers": "Hank Moonjean",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 22,
@@ -174,7 +174,7 @@
       "title": "Two of a Kind",
       "studios": "20th Century Fox",
       "producers": "Roger M. Rothstein and Joe Wizan",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 23,
@@ -182,7 +182,7 @@
       "title": "Bolero",
       "studios": "Cannon Films",
       "producers": "Bo Derek",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 24,
@@ -190,7 +190,7 @@
       "title": "Cannonball Run II",
       "studios": "Warner Bros.",
       "producers": "Albert S. Ruddy",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 25,
@@ -198,7 +198,7 @@
       "title": "Rhinestone",
       "studios": "20th Century Fox",
       "producers": "Marvin Worth and Howard Smith",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 26,
@@ -206,7 +206,7 @@
       "title": "Sheena",
       "studios": "Columbia Pictures",
       "producers": "Paul Aratow",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 27,
@@ -214,7 +214,7 @@
       "title": "Where the Boys Are '84",
       "studios": "TriStar Pictures",
       "producers": "Allan Carr",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 28,
@@ -222,7 +222,7 @@
       "title": "Rambo: First Blood Part II",
       "studios": "Columbia Pictures",
       "producers": "Buzz Feitshans",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 29,
@@ -230,7 +230,7 @@
       "title": "Fever Pitch",
       "studios": "MGM, United Artists",
       "producers": "Freddie Fields",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 30,
@@ -238,7 +238,7 @@
       "title": "Revolution",
       "studios": "Warner Bros.",
       "producers": "Irwin Winkler",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 31,
@@ -246,7 +246,7 @@
       "title": "Rocky IV",
       "studios": "MGM, United Artists",
       "producers": "Irwin Winkler and Robert Chartoff",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 32,
@@ -254,7 +254,7 @@
       "title": "Year of the Dragon",
       "studios": "MGM, United Artists",
       "producers": "Dino De Laurentiis",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 33,
@@ -262,7 +262,7 @@
       "title": "Howard the Duck",
       "studios": "Universal Studios",
       "producers": "Gloria Katz",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 34,
@@ -270,7 +270,7 @@
       "title": "Under the Cherry Moon",
       "studios": "Warner Bros.",
       "producers": "Bob Cavallo, Joe Ruffalo and Steve Fargnoli",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 35,
@@ -278,7 +278,7 @@
       "title": "Blue City",
       "studios": "Paramount Pictures",
       "producers": "William L. Hayward and Walter Hill",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 36,
@@ -286,7 +286,7 @@
       "title": "Cobra",
       "studios": "Warner Bros., Cannon Films",
       "producers": "Yoram Globus and Menahem Golan",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 37,
@@ -294,7 +294,7 @@
       "title": "Shanghai Surprise",
       "studios": "MGM",
       "producers": "John Kohn",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 38,
@@ -302,7 +302,7 @@
       "title": "Leonard Part 6",
       "studios": "Columbia Pictures",
       "producers": "Bill Cosby",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 39,
@@ -310,7 +310,7 @@
       "title": "Ishtar",
       "studios": "Columbia Pictures",
       "producers": "Warren Beatty",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 40,
@@ -318,7 +318,7 @@
       "title": "Jaws: The Revenge",
       "studios": "Universal Studios",
       "producers": "Joseph Sargent",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 41,
@@ -326,7 +326,7 @@
       "title": "Tough Guys Don't Dance",
       "studios": "Cannon Films",
       "producers": "Yoram Globus and Menahem Golan",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 42,
@@ -334,7 +334,7 @@
       "title": "Who's That Girl",
       "studios": "Warner Bros.",
       "producers": "Rosilyn Heller and Bernard Williams",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 43,
@@ -342,7 +342,7 @@
       "title": "Cocktail",
       "studios": "Touchstone Pictures",
       "producers": "Ted Field and Robert W. Cort",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 44,
@@ -350,7 +350,7 @@
       "title": "Caddyshack II",
       "studios": "Warner Bros.",
       "producers": "Neil Canton, Jon Peters and Peter Guber",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 45,
@@ -358,7 +358,7 @@
       "title": "Hot to Trot",
       "studios": "Warner Bros.",
       "producers": "Steve Tisch",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 46,
@@ -366,7 +366,7 @@
       "title": "Mac and Me",
       "studios": "Orion Pictures",
       "producers": "R. J. Louis",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 47,
@@ -374,7 +374,7 @@
       "title": "Rambo III",
       "studios": "TriStar Pictures, Carolco Pictures",
       "producers": "Buzz Feitshans",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 48,
@@ -382,7 +382,7 @@
       "title": "Star Trek V: The Final Frontier",
       "studios": "Paramount Pictures",
       "producers": "Harve Bennett",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 49,
@@ -390,7 +390,7 @@
       "title": "The Karate Kid Part III",
       "studios": "Columbia Pictures",
       "producers": "Jerry Weintraub",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 50,
@@ -398,7 +398,7 @@
       "title": "Lock Up",
       "studios": "TriStar Pictures, Carolco Pictures",
       "producers": "Charles Gordon and Lawrence Gordon",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 51,
@@ -406,7 +406,7 @@
       "title": "Road House",
       "studios": "United Artists",
       "producers": "Joel Silver",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 52,
@@ -414,7 +414,7 @@
       "title": "Speed Zone",
       "studios": "Orion Pictures",
       "producers": "Murray Shostack",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 53,
@@ -422,7 +422,7 @@
       "title": "The Adventures of Ford Fairlane",
       "studios": "20th Century Fox",
       "producers": "Steven Perry and Joel Silver",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 54,
@@ -430,7 +430,7 @@
       "title": "Ghosts Can't Do It",
       "studios": "Triumph Releasing",
       "producers": "Bo Derek",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 55,
@@ -438,7 +438,7 @@
       "title": "The Bonfire of the Vanities",
       "studios": "Warner Bros.",
       "producers": "Brian De Palma",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 56,
@@ -446,7 +446,7 @@
       "title": "Graffiti Bridge",
       "studios": "Warner Bros.",
       "producers": "Randy Phillips and Craig Rice",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 57,
@@ -454,7 +454,7 @@
       "title": "Rocky V",
       "studios": "United Artists",
       "producers": "Robert Chartoff and Irwin Winkler",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 58,
@@ -462,7 +462,7 @@
       "title": "Hudson Hawk",
       "studios": "TriStar Pictures",
       "producers": "Joel Silver",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 59,
@@ -470,7 +470,7 @@
       "title": "Cool as Ice",
       "studios": "Universal Studios",
       "producers": "Carolyn Pfeiffer and Lionel Wingram",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 60,
@@ -478,7 +478,7 @@
       "title": "Dice Rules",
       "studios": "Seven Arts Productions",
       "producers": "Loucas George",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 61,
@@ -486,7 +486,7 @@
       "title": "Nothing but Trouble",
       "studios": "Warner Bros.",
       "producers": "Lester Berman and Robert K. Weiss",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 62,
@@ -494,7 +494,7 @@
       "title": "Return to the Blue Lagoon",
       "studios": "Columbia Pictures",
       "producers": "William A. Graham",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 63,
@@ -502,7 +502,7 @@
       "title": "Shining Through",
       "studios": "20th Century Fox",
       "producers": "Carol Baum and Howard Rosenman",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 64,
@@ -510,7 +510,7 @@
       "title": "The Bodyguard",
       "studios": "Warner Bros.",
       "producers": "Kevin Costner, Lawrence Kasdan and Jim Wilson",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 65,
@@ -518,7 +518,7 @@
       "title": "Christopher Columbus: The Discovery",
       "studios": "Warner Bros.",
       "producers": "Alexander Salkind and Ilya Salkind",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 66,
@@ -526,7 +526,7 @@
       "title": "Final Analysis",
       "studios": "20th Century Fox",
       "producers": "Paul Junger Witt, Charles Roven and Tony Thomas",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 67,
@@ -534,7 +534,7 @@
       "title": "Newsies",
       "studios": "Walt Disney Pictures",
       "producers": "Michael Finnell",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 68,
@@ -542,7 +542,7 @@
       "title": "Indecent Proposal",
       "studios": "Paramount Pictures",
       "producers": "Sherry Lansing",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 69,
@@ -550,7 +550,7 @@
       "title": "Body of Evidence",
       "studios": "MGM, United Artists",
       "producers": "Dino De Laurentiis",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 70,
@@ -558,7 +558,7 @@
       "title": "Cliffhanger",
       "studios": "TriStar Pictures, Carolco Pictures",
       "producers": "Renny Harlin and Alan Marshall",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 71,
@@ -566,7 +566,7 @@
       "title": "Last Action Hero",
       "studios": "Columbia Pictures",
       "producers": "John McTiernan and Stephen J. Roth",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 72,
@@ -574,7 +574,7 @@
       "title": "Sliver",
       "studios": "Paramount Pictures",
       "producers": "Robert Evans",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 73,
@@ -582,7 +582,7 @@
       "title": "Color of Night",
       "studios": "Hollywood Pictures",
       "producers": "Buzz Feitshans and David Matalon",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 74,
@@ -590,7 +590,7 @@
       "title": "North",
       "studios": "Columbia Pictures, Castle Rock Entertainment",
       "producers": "Rob Reiner and Alan Zweibel",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 75,
@@ -598,7 +598,7 @@
       "title": "On Deadly Ground",
       "studios": "Warner Bros.",
       "producers": "A. Kitman Ho, Julius R. Nasso and Steven Seagal",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 76,
@@ -606,7 +606,7 @@
       "title": "The Specialist",
       "studios": "Warner Bros.",
       "producers": "Jerry Weintraub",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 77,
@@ -614,7 +614,7 @@
       "title": "Wyatt Earp",
       "studios": "Warner Bros.",
       "producers": "Kevin Costner, Lawrence Kasdan and Jim Wilson",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 78,
@@ -622,7 +622,7 @@
       "title": "Showgirls",
       "studios": "MGM, United Artists",
       "producers": "Charles Evans and Alan Marshall",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 79,
@@ -630,7 +630,7 @@
       "title": "Congo",
       "studios": "Paramount Pictures",
       "producers": "Kathleen Kennedy and Sam Mercer",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 80,
@@ -638,7 +638,7 @@
       "title": "It's Pat",
       "studios": "Touchstone Pictures",
       "producers": "Charles B. Wessler",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 81,
@@ -646,7 +646,7 @@
       "title": "The Scarlet Letter",
       "studios": "Hollywood Pictures",
       "producers": "Roland Joffé and Andrew G. Vajna",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 82,
@@ -654,7 +654,7 @@
       "title": "Waterworld",
       "studios": "Universal Studios",
       "producers": "Kevin Costner, John Davis, Charles Gordon and Lawrence Gordon",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 83,
@@ -662,7 +662,7 @@
       "title": "Striptease",
       "studios": "Columbia Pictures, Castle Rock Entertainment",
       "producers": "Andrew Bergman and Mike Lobell",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 84,
@@ -670,7 +670,7 @@
       "title": "Barb Wire",
       "studios": "PolyGram Filmed Entertainment, Gramercy Pictures",
       "producers": "Todd Moyer, Mike Richardson and Brad Wyman",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 85,
@@ -678,7 +678,7 @@
       "title": "Ed",
       "studios": "Universal Studios",
       "producers": "Rosalie Swedlin",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 86,
@@ -686,7 +686,7 @@
       "title": "The Island of Dr. Moreau",
       "studios": "New Line Cinema",
       "producers": "Edward R. Pressman",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 87,
@@ -694,7 +694,7 @@
       "title": "The Stupids",
       "studios": "New Line Cinema, Savoy Pictures",
       "producers": "Leslie Belzberg",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 88,
@@ -702,7 +702,7 @@
       "title": "The Postman",
       "studios": "Warner Bros.",
       "producers": "Kevin Costner, Steve Tisch and Jim Wilson",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 89,
@@ -710,7 +710,7 @@
       "title": "Anaconda",
       "studios": "Columbia Pictures",
       "producers": "Verna Harrah, Carole Little and Leonard Rabinowitz",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 90,
@@ -718,7 +718,7 @@
       "title": "Batman & Robin",
       "studios": "Warner Bros.",
       "producers": "Peter MacGregor-Scott",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 91,
@@ -726,7 +726,7 @@
       "title": "Fire Down Below",
       "studios": "Warner Bros.",
       "producers": "Julius R. Nasso and Steven Seagal",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 92,
@@ -734,7 +734,7 @@
       "title": "Speed 2: Cruise Control",
       "studios": "20th Century Fox",
       "producers": "Jan de Bont, Steve Perry and Michael Peyser",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 93,
@@ -742,7 +742,7 @@
       "title": "An Alan Smithee Film: Burn Hollywood Burn",
       "studios": "Hollywood Pictures",
       "producers": "Ben Myron and Joe Eszterhas",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 94,
@@ -750,7 +750,7 @@
       "title": "Armageddon",
       "studios": "Touchstone Pictures",
       "producers": "Michael Bay and Jerry Bruckheimer",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 95,
@@ -758,7 +758,7 @@
       "title": "The Avengers",
       "studios": "Warner Bros.",
       "producers": "Jerry Weintraub",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 96,
@@ -766,7 +766,7 @@
       "title": "Godzilla",
       "studios": "TriStar Pictures",
       "producers": "Roland Emmerich and Dean Devlin",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 97,
@@ -774,7 +774,7 @@
       "title": "Spice World",
       "studios": "Columbia Pictures",
       "producers": "Uri Fruchtan, Mark L. Rosen and Barnaby Thompson",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 98,
@@ -782,7 +782,7 @@
       "title": "Wild Wild West",
       "studios": "Warner Bros.",
       "producers": "Jon Peters and Barry Sonnenfeld",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 99,
@@ -790,7 +790,7 @@
       "title": "Big Daddy",
       "studios": "Columbia Pictures",
       "producers": "Sidney Ganis and Jack Giarraputo",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 100,
@@ -798,7 +798,7 @@
       "title": "The Blair Witch Project",
       "studios": "Artisan Entertainment",
       "producers": "Robin Cowie and Gregg Hale",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 101,
@@ -806,7 +806,7 @@
       "title": "The Haunting",
       "studios": "DreamWorks",
       "producers": "Susan Arthur, Donna Roth and Colin Wilson",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 102,
@@ -814,7 +814,7 @@
       "title": "Star Wars: Episode I – The Phantom Menace",
       "studios": "20th Century Fox",
       "producers": "Rick McCallum and George Lucas",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 103,
@@ -822,7 +822,7 @@
       "title": "Battlefield Earth",
       "studios": "Warner Bros., Franchise Pictures",
       "producers": "Jonathan D. Krane, Elie Samaha and John Travolta",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 104,
@@ -830,7 +830,7 @@
       "title": "Book of Shadows: Blair Witch 2",
       "studios": "Artisan Entertainment",
       "producers": "Bill Carraro",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 105,
@@ -838,7 +838,7 @@
       "title": "The Flintstones in Viva Rock Vegas",
       "studios": "Universal Studios",
       "producers": "Bruce Cohen",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 106,
@@ -846,7 +846,7 @@
       "title": "Little Nicky",
       "studios": "New Line Cinema",
       "producers": "Jack Giarraputo and Robert Simonds",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 107,
@@ -854,7 +854,7 @@
       "title": "The Next Best Thing",
       "studios": "Paramount Pictures",
       "producers": "Leslie Dixon, Linne Radmin and Tom Rosenberg",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 108,
@@ -862,7 +862,7 @@
       "title": "Freddy Got Fingered",
       "studios": "20th Century Fox",
       "producers": "Larry Brezner, Howard Lapides and Lauren Lloyd",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 109,
@@ -870,7 +870,7 @@
       "title": "Driven",
       "studios": "Warner Bros., Franchise Pictures",
       "producers": "Renny Harlin, Elie Samaha and Sylvester Stallone",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 110,
@@ -878,7 +878,7 @@
       "title": "Glitter",
       "studios": "20th Century Fox, Columbia Pictures",
       "producers": "Laurence Mark and E. Bennett Walsh",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 111,
@@ -886,7 +886,7 @@
       "title": "Pearl Harbor",
       "studios": "Touchstone Pictures",
       "producers": "Michael Bay and Jerry Bruckheimer",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 112,
@@ -894,7 +894,7 @@
       "title": "3000 Miles to Graceland",
       "studios": "Warner Bros., Franchise Pictures",
       "producers": "Demian Lichtenstein, Eric Manes, Elie Samaha, Richard Spero and Andrew Stevens",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 113,
@@ -902,7 +902,7 @@
       "title": "Swept Away",
       "studios": "Screen Gems",
       "producers": "Matthew Vaughn",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 114,
@@ -910,7 +910,7 @@
       "title": "The Adventures of Pluto Nash",
       "studios": "Warner Bros.",
       "producers": "Martin Bregman, Michael Scott Bregman and Louis A. Stroller",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 115,
@@ -918,7 +918,7 @@
       "title": "Crossroads",
       "studios": "Paramount Pictures",
       "producers": "Ann Carli",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 116,
@@ -926,7 +926,7 @@
       "title": "Pinocchio",
       "studios": "Miramax Films",
       "producers": "Gianluigi Braschi, Nicoletta Braschi and Elda Ferri",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 117,
@@ -934,7 +934,7 @@
       "title": "Star Wars: Episode II – Attack of the Clones",
       "studios": "20th Century Fox",
       "producers": "Rick McCallum and George Lucas",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 118,
@@ -942,7 +942,7 @@
       "title": "Gigli",
       "studios": "Columbia Pictures, Revolution Studios",
       "producers": "Martin Brest and Casey Silver",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 119,
@@ -950,7 +950,7 @@
       "title": "The Cat in the Hat",
       "studios": "Universal Studios, DreamWorks",
       "producers": "Brian Grazer",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 120,
@@ -958,7 +958,7 @@
       "title": "Charlie's Angels: Full Throttle",
       "studios": "Columbia Pictures",
       "producers": "Drew Barrymore, Leonard Goldberg and Nancy Juvonen",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 121,
@@ -966,7 +966,7 @@
       "title": "From Justin to Kelly",
       "studios": "20th Century Fox",
       "producers": "John Steven Agoglia",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 122,
@@ -974,7 +974,7 @@
       "title": "The Real Cancun",
       "studios": "New Line Cinema",
       "producers": "Mary-Ellis Bunim, Jonathan Murray, Jamie Schutz and Rick de Oliveira",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 123,
@@ -982,7 +982,7 @@
       "title": "Catwoman",
       "studios": "Warner Bros.",
       "producers": "Denise Di Novi and Edward McDonnell",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 124,
@@ -990,7 +990,7 @@
       "title": "Alexander",
       "studios": "Warner Bros.",
       "producers": "Moritz Borman, Jon Kilik, Thomas Schuhly and Iain Smith",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 125,
@@ -998,7 +998,7 @@
       "title": "Superbabies: Baby Geniuses 2",
       "studios": "Triumph Films",
       "producers": "Steven Paul",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 126,
@@ -1006,7 +1006,7 @@
       "title": "Surviving Christmas",
       "studios": "DreamWorks",
       "producers": "Betty Thomas and Jenno Topping",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 127,
@@ -1014,7 +1014,7 @@
       "title": "White Chicks",
       "studios": "Columbia Pictures, Revolution Studios",
       "producers": "Rick Alvarez, Lee R. Mayes, Keenen Ivory Wayans, Marlon Wayans and Shawn Wayans",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 128,
@@ -1022,7 +1022,7 @@
       "title": "Dirty Love",
       "studios": "First Look Pictures",
       "producers": "John Mallory Asher, BJ Davis, Rod Hamilton, Kimberley Kates, Michael Manasseri, Jenny McCarthy and Trent Walford",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 129,
@@ -1030,7 +1030,7 @@
       "title": "Deuce Bigalow: European Gigolo",
       "studios": "Columbia Pictures",
       "producers": "Adam Sandler and Rob Schneider",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 130,
@@ -1038,7 +1038,7 @@
       "title": "The Dukes of Hazzard",
       "studios": "Warner Bros., Village Roadshow",
       "producers": "Bill Gerber",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 131,
@@ -1046,7 +1046,7 @@
       "title": "House of Wax",
       "studios": "Warner Bros., Village Roadshow",
       "producers": "Susan Levin, Joel Silver and Robert Zemeckis",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 132,
@@ -1054,7 +1054,7 @@
       "title": "Son of the Mask",
       "studios": "New Line Cinema",
       "producers": "Erica Huggins and Scott Kroopf",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 133,
@@ -1062,7 +1062,7 @@
       "title": "Basic Instinct 2",
       "studios": "MGM, C2 Pictures",
       "producers": "Mario Kassar, Joel B. Michaels and Andrew G. Vajna",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 134,
@@ -1070,7 +1070,7 @@
       "title": "BloodRayne",
       "studios": "Romar Entertainment",
       "producers": "Uwe Boll, Dan Clarke and Wolfgang Herrold",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 135,
@@ -1078,7 +1078,7 @@
       "title": "Lady in the Water",
       "studios": "Warner Bros.",
       "producers": "Sam Mercer, Jose L. Rodriguez and M. Night Shyamalan",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 136,
@@ -1086,7 +1086,7 @@
       "title": "Little Man",
       "studios": "Columbia Pictures, Revolution Studios",
       "producers": "Rick Alvares, Lee Mays, Marlon Wayans and Shawn Wayans",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 137,
@@ -1094,7 +1094,7 @@
       "title": "The Wicker Man",
       "studios": "Warner Bros.",
       "producers": "Nicolas Cage, Randall Emmett, Norm Golightly, Avi Lerner and Joanne Sellar",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 138,
@@ -1102,7 +1102,7 @@
       "title": "I Know Who Killed Me",
       "studios": "TriStar Pictures",
       "producers": "David Grace and Frank Mancuso Jr.",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 139,
@@ -1110,7 +1110,7 @@
       "title": "Bratz",
       "studios": "Lionsgate",
       "producers": "Avi Arad, Isaac Larian and Steven Paul",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 140,
@@ -1118,7 +1118,7 @@
       "title": "Daddy Day Camp",
       "studios": "TriStar Pictures, Revolution Studios",
       "producers": "Matt Berenson, John Davis and Wyck Godfrey",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 141,
@@ -1126,7 +1126,7 @@
       "title": "I Now Pronounce You Chuck & Larry",
       "studios": "Universal Studios",
       "producers": "Adam Sandler and Tom Shadyac",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 142,
@@ -1134,7 +1134,7 @@
       "title": "Norbit",
       "studios": "DreamWorks",
       "producers": "John Davis, Eddie Murphy and Michael Tollin",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 143,
@@ -1142,7 +1142,7 @@
       "title": "The Love Guru",
       "studios": "Paramount Pictures",
       "producers": "Gary Barber, Michael DeLuca and Mike Myers",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 144,
@@ -1150,7 +1150,7 @@
       "title": "Disaster Movie and Meet the Spartans",
       "studios": "Lionsgate, 20th Century Fox",
       "producers": "Jason Friedberg, Peter Safran and Aaron Seltzer",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 145,
@@ -1158,7 +1158,7 @@
       "title": "The Happening",
       "studios": "20th Century Fox",
       "producers": "Barry Mendel, Sam Mercer and M. Night Shyamalan",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 146,
@@ -1166,7 +1166,7 @@
       "title": "The Hottie & the Nottie",
       "studios": "Regent Releasing",
       "producers": "Hadeel Reda",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 147,
@@ -1174,7 +1174,7 @@
       "title": "In the Name of the King",
       "studios": "Boll KG, Brightlight Pictures",
       "producers": "Uwe Boll, Dan Clarke, Wolfgang Herrold and Shawn Williamson",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 148,
@@ -1182,7 +1182,7 @@
       "title": "Transformers: Revenge of the Fallen",
       "studios": "Paramount Pictures, DreamWorks, Hasbro",
       "producers": "Lorenzo di Bonaventura, Ian Bryce, Tom DeSanto and Don Murphy",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 149,
@@ -1190,7 +1190,7 @@
       "title": "All About Steve",
       "studios": "20th Century Fox",
       "producers": "Sandra Bullock and Mary McLaglen",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 150,
@@ -1198,7 +1198,7 @@
       "title": "G.I. Joe: The Rise of Cobra",
       "studios": "Paramount Pictures, Hasbro",
       "producers": "Lorenzo di Bonaventura, Bob Ducsay and Brian Goldner",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 151,
@@ -1206,7 +1206,7 @@
       "title": "Land of the Lost",
       "studios": "Universal Studios",
       "producers": "Sid and Marty Krofft and Jimmy Miller",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 152,
@@ -1214,7 +1214,7 @@
       "title": "Old Dogs",
       "studios": "Walt Disney Pictures",
       "producers": "Peter Abrams, Robert Levy and Andrew Panay",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 153,
@@ -1222,7 +1222,7 @@
       "title": "The Last Airbender",
       "studios": "Paramount Pictures, Nickelodeon Movies",
       "producers": "Frank Marshall, Kathleen Kennedy, Sam Mercer and M. Night Shyamalan",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 154,
@@ -1230,7 +1230,7 @@
       "title": "The Bounty Hunter",
       "studios": "Columbia Pictures",
       "producers": "Neal H. Moritz",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 155,
@@ -1238,7 +1238,7 @@
       "title": "Sex and the City 2",
       "studios": "New Line Cinema, HBO Films, Village Roadshow Pictures",
       "producers": "Michael Patrick King, John Melfi, Sarah Jessica Parker and Darren Star",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 156,
@@ -1246,7 +1246,7 @@
       "title": "The Twilight Saga: Eclipse",
       "studios": "Summit Entertainment",
       "producers": "Wyck Godfrey and Karen Rosenfelt",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 157,
@@ -1254,7 +1254,7 @@
       "title": "Vampires Suck",
       "studios": "20th Century Fox",
       "producers": "Jason Friedberg, Peter Safran and Aaron Seltzer",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 158,
@@ -1262,7 +1262,7 @@
       "title": "Jack and Jill",
       "studios": "Columbia Pictures",
       "producers": "Todd Garner, Jack Giarraputo and Adam Sandler",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 159,
@@ -1270,7 +1270,7 @@
       "title": "Bucky Larson: Born to Be a Star",
       "studios": "Columbia Pictures",
       "producers": "Barry Bernardi, Allen Covert, David Dorfman and Jack Giarraputo",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 160,
@@ -1278,7 +1278,7 @@
       "title": "New Year's Eve",
       "studios": "Warner Bros., New Line Cinema",
       "producers": "Mike Karz, Garry Marshall and Wayne Allan Rice",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 161,
@@ -1286,7 +1286,7 @@
       "title": "Transformers: Dark of the Moon",
       "studios": "Paramount Pictures",
       "producers": "Lorenzo di Bonaventura, Ian Bryce, Tom DeSanto and Don Murphy",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 162,
@@ -1294,7 +1294,7 @@
       "title": "The Twilight Saga: Breaking Dawn – Part 1",
       "studios": "Summit Entertainment",
       "producers": "Wyck Godfrey, Stephenie Meyer and Karen Rosenfelt",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 163,
@@ -1302,7 +1302,7 @@
       "title": "The Twilight Saga: Breaking Dawn – Part 2",
       "studios": "Summit Entertainment",
       "producers": "Wyck Godfrey, Stephenie Meyer and Karen Rosenfelt",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 164,
@@ -1310,7 +1310,7 @@
       "title": "Battleship",
       "studios": "Universal Studios",
       "producers": "Sarah Aubrey, Peter Berg, Brian Goldner, Duncan Henderson, Bennett Schneir and Scott Stuber",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 165,
@@ -1318,7 +1318,7 @@
       "title": "The Oogieloves in the Big Balloon Adventure",
       "studios": "Lionsgate Films, Romar Entertainment, Kenn Viselman Presents",
       "producers": "Gayle Dickie, Kenn Viselman",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 166,
@@ -1326,7 +1326,7 @@
       "title": "That's My Boy",
       "studios": "Columbia Pictures",
       "producers": "Allen Covert, Jack Giarraputo, Heather Parry and Adam Sandler",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 167,
@@ -1334,7 +1334,7 @@
       "title": "A Thousand Words",
       "studios": "Paramount Pictures, DreamWorks",
       "producers": "Nicolas Cage, Alain Chabat, Stephanie Danan, Norman Golightly, Brian Robbinsand Sharla Sumpter Bridgett",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 168,
@@ -1342,7 +1342,7 @@
       "title": "Movie 43",
       "studios": "Relativity Media",
       "producers": "Peter Farrelly, Ryan Kavanaugh, John Penotti and Charles B. Wessler",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 169,
@@ -1350,7 +1350,7 @@
       "title": "After Earth",
       "studios": "Columbia Pictures",
       "producers": "James Lassiter, Caleeb Pinkett, Jada Pinkett Smith, M. Night Shyamalan, Will Smith and Jaden Smith",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 170,
@@ -1358,7 +1358,7 @@
       "title": "Grown Ups 2",
       "studios": "Columbia Pictures",
       "producers": "Jack Giarraputo and Adam Sandler",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 171,
@@ -1366,7 +1366,7 @@
       "title": "The Lone Ranger",
       "studios": "Walt Disney Pictures",
       "producers": "Jerry Bruckheimer and Gore Verbinski",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 172,
@@ -1374,7 +1374,7 @@
       "title": "A Madea Christmas",
       "studios": "Lionsgate",
       "producers": "Ozzie Areu, Matt Moore and Tyler Perry",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 173,
@@ -1382,7 +1382,7 @@
       "title": "Saving Christmas",
       "studios": "Samuel Goldwyn Films",
       "producers": "Darren Doane, Raphi Henley, Amanda Rosser and David Shannon",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 174,
@@ -1390,7 +1390,7 @@
       "title": "Left Behind",
       "studios": "Freestyle Releasing, Entertainment One",
       "producers": "Michael Walker and Paul LaLonde",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 175,
@@ -1398,7 +1398,7 @@
       "title": "The Legend of Hercules",
       "studios": "Summit Entertainment",
       "producers": "Boaz Davidson, Renny Harlin, Danny Lerner and Les Weldon",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 176,
@@ -1406,7 +1406,7 @@
       "title": "Teenage Mutant Ninja Turtles",
       "studios": "Paramount Pictures, Nickelodeon Movies, Platinum Dunes",
       "producers": "Michael Bay, Ian Bryce, Andrew Form, Bradley Fuller, Scott Mednick and Galen Walker",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 177,
@@ -1414,7 +1414,7 @@
       "title": "Transformers: Age of Extinction",
       "studios": "Paramount Pictures",
       "producers": "Ian Bryce, Tom DeSanto, Lorenzo di Bonaventura and Don Murphy",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 178,
@@ -1422,7 +1422,7 @@
       "title": "Fantastic Four",
       "studios": "20th Century Fox",
       "producers": "Simon Kinberg, Matthew Vaughn, Hutch Parker, Robert Kulzer and Gregory Goodman",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 179,
@@ -1430,7 +1430,7 @@
       "title": "Fifty Shades of Grey",
       "studios": "Universal Pictures, Focus Features",
       "producers": "Michael De Luca, Dana Brunetti and E. L. James",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 180,
@@ -1438,7 +1438,7 @@
       "title": "Jupiter Ascending",
       "studios": "Warner Bros.",
       "producers": "Grant Hill and The Wachowskis",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 181,
@@ -1446,7 +1446,7 @@
       "title": "Paul Blart: Mall Cop 2",
       "studios": "Columbia Pictures",
       "producers": "Todd Garner, Kevin James and Adam Sandler",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 182,
@@ -1454,7 +1454,7 @@
       "title": "Pixels",
       "studios": "Columbia Pictures",
       "producers": "Adam Sandler, Chris Columbus, Mark Radcliffe and Allen Covert",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 183,
@@ -1462,7 +1462,7 @@
       "title": "Hillary's America: The Secret History of the Democratic Party",
       "studios": "Quality Flix",
       "producers": "Gerald R. Molen",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 184,
@@ -1470,7 +1470,7 @@
       "title": "Batman v Superman: Dawn of Justice",
       "studios": "Warner Bros.",
       "producers": "Charles Roven and Deborah Snyder",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 185,
@@ -1478,7 +1478,7 @@
       "title": "Dirty Grandpa",
       "studios": "Lionsgate",
       "producers": "Bill Block, Michael Simkin, Jason Barrett and Barry Josephson",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 186,
@@ -1486,7 +1486,7 @@
       "title": "Gods of Egypt",
       "studios": "Summit Entertainment",
       "producers": "Basil Iwanyk and Alex Proyas",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 187,
@@ -1494,7 +1494,7 @@
       "title": "Independence Day: Resurgence",
       "studios": "20th Century Fox",
       "producers": "Dean Devlin, Harald Kloser and Roland Emmerich",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 188,
@@ -1502,7 +1502,7 @@
       "title": "Zoolander 2",
       "studios": "Paramount Pictures",
       "producers": "Stuart Cornfeld, Scott Rudin, Ben Stiller and Clayton Townsend",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 189,
@@ -1510,7 +1510,7 @@
       "title": "The Emoji Movie",
       "studios": "Columbia Pictures",
       "producers": "Michelle Raimo Kouyate",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 190,
@@ -1518,7 +1518,7 @@
       "title": "Baywatch",
       "studios": "Paramount Pictures",
       "producers": "Ivan Reitman, Michael Berk, Douglas Schwartz, Gregory J. Bonann and Beau Flynn",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 191,
@@ -1526,7 +1526,7 @@
       "title": "Fifty Shades Darker",
       "studios": "Universal Pictures",
       "producers": "Michael De Luca, E. L. James, Dana Brunetti and Marcus Viscidi",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 192,
@@ -1534,7 +1534,7 @@
       "title": "The Mummy",
       "studios": "Universal Pictures",
       "producers": "Alex Kurtzman, Chris Morgan, Sean Daniel and Sarah Bradshaw",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 193,
@@ -1542,7 +1542,7 @@
       "title": "Transformers: The Last Knight",
       "studios": "Paramount Pictures",
       "producers": "Don Murphy, Tom DeSanto, Lorenzo di Bonaventura and Ian Bryce",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 194,
@@ -1550,7 +1550,7 @@
       "title": "Holmes & Watson",
       "studios": "Columbia Pictures",
       "producers": "Will Ferrell, Adam McKay, Jimmy Miller and Clayton Townsend",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 195,
@@ -1558,7 +1558,7 @@
       "title": "Gotti",
       "studios": "Vertical Entertainment",
       "producers": "Randall Emmett, Marc Fiore, Michael Froch and George Furla",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 196,
@@ -1566,7 +1566,7 @@
       "title": "The Happytime Murders",
       "studios": "STX",
       "producers": "Ben Falcone, Jeffrey Hayes, Brian Henson and Melissa McCarthy",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 197,
@@ -1574,7 +1574,7 @@
       "title": "Robin Hood",
       "studios": "Summit Entertainment",
       "producers": "Jennifer Davisson and Leonardo DiCaprio",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 198,
@@ -1582,7 +1582,7 @@
       "title": "Winchester",
       "studios": "Lionsgate",
       "producers": "Tim McGahan and Brett Tomberlin",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 199,
@@ -1590,7 +1590,7 @@
       "title": "Cats",
       "studios": "Universal Pictures",
       "producers": "Debra Hayward, Tim Bevan, Eric Fellner, and Tom Hooper",
-      "winner": true
+      "winner": "true"
     },
     {
       "id": 200,
@@ -1598,7 +1598,7 @@
       "title": "The Fanatic",
       "studios": "Quiver Distribution",
       "producers": "Daniel Grodnik, Oscar Generale, and Bill Kenwright",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 201,
@@ -1606,7 +1606,7 @@
       "title": "The Haunting of Sharon Tate",
       "studios": "Saban Films",
       "producers": "Lucas Jarach, Daniel Farrands, and Eric Brenner",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 202,
@@ -1614,7 +1614,7 @@
       "title": "A Madea Family Funeral",
       "studios": "Lionsgate",
       "producers": "Ozzie Areu, Will Areu, and Mark E. Swinton",
-      "winner": false
+      "winner": "false"
     },
     {
       "id": 203,
@@ -1622,7 +1622,7 @@
       "title": "Rambo: Last Blood",
       "studios": "Lionsgate",
       "producers": "Avi Lerner, Kevin King Templeton, Yariv Lerner, and Les Weldon",
-      "winner": false
+      "winner": "false"
     }
   ]
 }

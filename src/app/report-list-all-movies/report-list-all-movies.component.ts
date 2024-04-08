@@ -1,8 +1,7 @@
-import {Component, ViewChild, OnInit} from '@angular/core';
+import {Component, OnInit, ViewChild} from '@angular/core';
 import {MatInputModule} from '@angular/material/input';
 import {MatFormFieldModule} from '@angular/material/form-field';
-import {MatTableModule} from '@angular/material/table';
-import {MatTableDataSource} from '@angular/material/table';
+import {MatTableDataSource, MatTableModule} from '@angular/material/table';
 import {FormsModule} from "@angular/forms";
 import {MatOption, MatSelect} from "@angular/material/select";
 import {MatGridList, MatGridTile} from "@angular/material/grid-list";
@@ -10,6 +9,7 @@ import {MatPaginator} from '@angular/material/paginator';
 import {Movies} from "../interfaces/movies.interface";
 import {MoviesService} from "../services/movies.service";
 import {NgIf} from "@angular/common";
+import {MatButton} from "@angular/material/button";
 
 @Component({
   selector: 'app-report-list-all-movies',
@@ -25,6 +25,7 @@ import {NgIf} from "@angular/common";
     MatGridTile,
     MatPaginator,
     NgIf,
+    MatButton,
   ],
   templateUrl: './report-list-all-movies.component.html',
   styleUrl: './report-list-all-movies.component.scss'
@@ -41,51 +42,36 @@ export class ReportListAllMoviesComponent implements OnInit {
   };
 
   table = {
-    data : new MatTableDataSource<Movies>([]),
+    data: new MatTableDataSource<Movies>([]),
     headers: ['id', 'year', 'title', 'winner']
-
   }
 
   @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator | null = null;
 
-  async ngOnInit() {
-    await this.moviesService.getMoviesList()
-    this.table.data.data = this.moviesService.movieList
-
-    if (this.paginator) {
-      this.table.data.paginator = this.paginator;
-    }
+  ngOnInit() {
+    this.applyFilter()
   }
 
+  async applyFilter() {
+    try {
+      this.table.data.data = await this.moviesService.getMoviesList(
+        this.filter.title,
+        this.filter.year,
+        this.filter.winner
+      );
 
-
-  applyFilter() {
-    this.table.data.filterPredicate = (data, filter) => {
-      const filterObject = JSON.parse(filter);
-      let yearMatch = true;
-      let titleMatch = true;
-      let winnerMatch = true;
-
-      if (filterObject.year) {
-        yearMatch = data.year.toString().includes(filterObject.year);
+      if (this.paginator) {
+        this.table.data.paginator = this.paginator;
       }
+      this.table.data.paginator = this.paginator;
 
-      if (filterObject.title) {
-        titleMatch = data.title.toLowerCase().includes(filterObject.title.toLowerCase());
+      if (this.table.data.paginator) {
+        this.table.data.paginator.firstPage();
       }
-
-      if (filterObject.winner !== null && filterObject.winner !== undefined) {
-        winnerMatch = data.winner === filterObject.winner;
-      }
-
-      return yearMatch && titleMatch && winnerMatch;
-    };
-
-    this.table.data.filter = JSON.stringify(this.filter);
-
-    if (this.table.data.paginator) {
-      this.table.data.paginator.firstPage();
+    } catch (error) {
+      console.error('Fail to get movies list:', error);
     }
+
   }
 }
 
