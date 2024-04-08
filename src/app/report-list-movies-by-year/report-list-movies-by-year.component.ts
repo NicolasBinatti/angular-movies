@@ -16,14 +16,10 @@ import {Movies} from "../interfaces/movies.interface";
 
 export class ReportListMoviesByYearComponent {
   dataSource = new MatTableDataSource<Movies>([
-    {id: 1, year: 1995, title: 'Shrek', winner: true},
-    {id: 3, year: 2000, title: 'Shrek 2', winner: false},
-    {id: 15, year: 2002, title: 'Shrek 3', winner: true},
-    {id: 3, year: 2000, title: 'Shrek 2', winner: true},
-    {id: 15, year: 2002, title: 'Shrek 3', winner: false},
-    {id: 3, year: 2000, title: 'Shrek 2', winner: false},
-    {id: 15, year: 2002, title: 'Shrek 3', winner: false},
-    {id: 66, year: 2008, title: 'Shrek 4', winner: true},
+    {id: 1, year: 1995, title: 'Mommie Dearest', winner: true},
+    {id: 80, year: 1986, title: 'Howard the Duck', winner: true},
+    {id: 79, year: 1985, title: 'Rambo: First Blood Part II', winner: true},
+    {id: 123, year: 1989, title: 'Star Trek V: The Final Frontier', winner: true},
   ]);
 
   displayedColumns: string[] = ['name', 'year', 'title']; // Colunas a serem exibidas na tabela

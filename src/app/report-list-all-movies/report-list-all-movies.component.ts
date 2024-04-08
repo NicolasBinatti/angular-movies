@@ -31,7 +31,7 @@ import {MatButton} from "@angular/material/button";
   styleUrl: './report-list-all-movies.component.scss'
 })
 export class ReportListAllMoviesComponent implements OnInit {
-
+  @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator | null = null;
   constructor(private moviesService: MoviesService) {
   }
 
@@ -45,7 +45,6 @@ export class ReportListAllMoviesComponent implements OnInit {
     headers: ['id', 'year', 'title', 'winner']
   }
 
-  @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator | null = null;
 
   ngOnInit() {
     this.applyFilter()
@@ -53,7 +52,7 @@ export class ReportListAllMoviesComponent implements OnInit {
 
   async applyFilter() {
     try {
-      this.table.data.data = await this.moviesService.getMoviesList(this.filter.year,this.filter.winner);
+      this.table.data.data = await this.moviesService.getMoviesList(this.filter.year, this.filter.winner);
 
       if (this.paginator) {
         this.table.data.paginator = this.paginator;
