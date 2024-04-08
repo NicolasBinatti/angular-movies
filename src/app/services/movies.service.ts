@@ -10,13 +10,10 @@ export class MoviesService {
   constructor(private http: HttpClient) {
   }
 
-  async getMoviesList(title: string | null, year?: number | null, winner?: boolean | null): Promise<any> {
+  async getMoviesList(year?: number | null, winner?: boolean | null): Promise<any> {
     let endpoint: string = environment.apiUrl + 'movies';
     let params = new HttpParams();
 
-    if (title) {
-      params = params.append('winner', title.toString());
-    }
     if (year) {
       params = params.append('year', year.toString());
     }

@@ -36,7 +36,6 @@ export class ReportListAllMoviesComponent implements OnInit {
   }
 
   filter = {
-    title: null,
     year: null,
     winner: null
   };
@@ -54,11 +53,7 @@ export class ReportListAllMoviesComponent implements OnInit {
 
   async applyFilter() {
     try {
-      this.table.data.data = await this.moviesService.getMoviesList(
-        this.filter.title,
-        this.filter.year,
-        this.filter.winner
-      );
+      this.table.data.data = await this.moviesService.getMoviesList(this.filter.year,this.filter.winner);
 
       if (this.paginator) {
         this.table.data.paginator = this.paginator;
